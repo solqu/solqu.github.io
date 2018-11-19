@@ -5,5 +5,5 @@
 layout: home
 ---
 
-Hej på dä! Här kan det stå massor med text <br>
-Det är bara att skriva in litegrann som inte har någon betydelse eftersom allt detta ändå ska tas bort innan inlämning.
+<p class="index-content">Hej på dä! Här kan det stå massor med text <br>
+Det är bara att skriva in litegrann som inte har någon betydelse eftersom allt detta ändå ska tas bort innan inlämning.</p>
